@@ -1,4 +1,4 @@
-//import mysql
+
 
 var connection = require("../config/connection.js");
 

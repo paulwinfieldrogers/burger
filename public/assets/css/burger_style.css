@@ -19,6 +19,7 @@ body {
   text-align: center;
   font-size: 12px;
   border-radius: 2px;
+  width: 100%;
 }
 
 .burgerEaten{
@@ -29,6 +30,7 @@ background-color: red;
   text-align: center;
   font-size: 12px;
   border-radius: 2px;
+  width: 100%;
 }
 
 
