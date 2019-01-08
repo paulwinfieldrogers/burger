@@ -15,19 +15,19 @@ Addtionally an ORM file sits between the application and the database and determ
 
 Here is the main screen of the app:
 
-![ScreenShot](assets/img/Screen Shot 2019-01-07 at 5.08.33 PM.png)
+![ScreenShot](assets/img/ss1.png)
 
 Here you can add a burger:
 
-![ScreenShot](assets/img/Screen Shot 2019-01-07 at 5.09.13 PM.png)
+![ScreenShot](assets/img/ss2.png)
 
 Here is the added burger:
 
-![ScreenShot](assets/img/Screen Shot 2019-01-07 at 5.09.40 PM.png)
+![ScreenShot](assets/img/ss3.png)
 
 You can then devour the burger which moves it to the right:
 
-![ScreenShot](assets/img/Screen Shot 2019-01-07 at 5.09.57 PM.png)
+![ScreenShot](assets/img/ss4.png)
 
 This app can be launched on:
 
